@@ -1,0 +1,179 @@
+.header{
+    background-color: #3b5998;
+    width: 100%;
+    height: 85px;
+
+}
+body{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 24px;
+    float: left;
+}
+
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 160px;
+    
+}
+.login-label{
+    color:#fff;
+    
+}
+.login-controls{
+    margin-left: 122px;
+    font-size: 12px;
+}
+.login{
+    padding-top: 17px;
+}
+.forgotten
+{
+    color: #fff;
+    font-size: 12px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.submit-button{
+    background-color: #4267b2;
+    color: #fff;
+    border-color: #29487b;
+    height: 23px;
+    cursor: pointer;
+}
+.submit-button:hover
+{
+    color: rgb(112, 145, 146);
+}
+.left-section
+{
+    width: 50%;
+    float: left;
+    padding-left: 81px;
+
+}
+.right-section
+{
+    width: 50%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient( #fff,#D3D8E8);
+    width: 100%;
+    height: 621px;
+}
+.image
+{
+    width: 597px;
+}
+.quick{
+    font-weight: bold;
+}
+
+.firstname
+{
+    width: 173px;
+    height: 29px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-block-width: 1px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-color: #9cb4d8;
+}
+.surname{
+    width: 173px;
+    height: 29px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-block-width: 1px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-color: #9cb4d8;
+}
+.mobile{
+    width: 358px;
+    height: 29px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-block-width: 1px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-color: #9cb4d8;
+}
+.pass{
+    width: 358px;
+    height: 29px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-block-width: 1px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-color: #9cb4d8;
+    
+}
+.b{
+    font-size: 17px;
+    padding-top: 10px;
+}
+.one{
+    block-size: 25px;
+    border-radius: 5px;
+    border-color: #9cb4d8;
+}
+.two{
+    block-size: 25px;
+    border-radius: 5px;
+    border-color: #9cb4d8;
+}
+.three
+{block-size: 25px;
+    border-radius: 5px;
+    border-color: #9cb4d8;
+}
+.gender
+{
+    font-size: 17px;
+
+}
+.small{
+    font-size: 11px;
+    color: grey;
+}
+.submit2
+{
+    background-color: #5fa14a;
+    width: 185px;
+    height: 38px;
+    border-radius: 5px;
+    font-size: 21px;
+    color: #fff;
+    font-weight: bolder;
+}
+.last{
+    padding-top: 20px;
+    padding-left: 755px;
+    font-weight: bold
+}
+.gradient{
+    background: linear-gradient( #fff,#D3D8E8);
+}
+.create{
+    font-size: 33px;
+}
+.footer{
+    color: rgb(92, 25, 25);
+    
+    width: 10px;
+}
